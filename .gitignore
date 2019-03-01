@@ -2,3 +2,13 @@
 KSOS/Intermediate/
 
 KSOS/Saved/
+
+KSOS/DerivedDataCache
+
+KSOS/Binaries
+
+KSOS/*.sln
+
+KSOS/*.sdf
+
+KSOS/*.suo
